@@ -6,4 +6,4 @@
 #### Universitat Pompeu Fabra
 #### Student: Àlex Herrero Díaz
 #### NIA: 240799
-#### Comment: Added a Jump feature and platform obstacles
+#### Comment: Added a Jump feature and platform obstacles.
